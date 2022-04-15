@@ -1,4 +1,4 @@
-> “Yes, I’m a nerd, just not a very smart one.”
+> **“Yes, I’m a nerd, just not a very smart one.”**
 ---
 ### I code in:
 - HTML
