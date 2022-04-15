@@ -7,6 +7,13 @@
 - C++
 - Python
 
+### I code with:
+- VS Code
+- Replit
+
 ### I also:
 - Build websites
 - Break keyboards
+---
+*Hours spent positioning divs and manipulating the DOM:*
+### 101.5
