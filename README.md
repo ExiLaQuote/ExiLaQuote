@@ -1,4 +1,4 @@
-> **“I may be a nerd. That doesn't mean I'm smart.”**
+> **“Intelligence will only go as far as your determination and passion are willing to take it.”**
 ---
 ### I code in:
 - HTML
