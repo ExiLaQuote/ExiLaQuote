@@ -15,5 +15,5 @@
 - Build websites
 - Break keyboards
 ---
-*Hours spent positioning divs and manipulating the DOM:*
-### 101.5
+*Timed Hours: Web Dev
+### 145.5
