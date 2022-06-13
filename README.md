@@ -21,7 +21,3 @@
 ### I also:
 - Build websites
 - Break keyboards
-
----
-*Timed Hours: Web Dev
-### 145.5
