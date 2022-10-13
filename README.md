@@ -3,6 +3,8 @@
 
 - HTML & CSS
 - Javascript
+- Bootstrap & jQuery
+- React.js
 - Node & Express
 - Python
 - C++
